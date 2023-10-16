@@ -18,6 +18,15 @@ Download the poster: [Google Drive](https://drive.google.com/file/d/1grLE_xoWpA5
 
 Download the poster: [Google Drive](https://drive.google.com/file/d/1RWOeA2c5_5kbsnjIzAyrZHL6hMmnRt9N/view?usp=sharing)
 
+This poster was inspired by our experiences as software-engineering experts for a number of variously related projects in the domain of Process Systems Engineering (PSE), collectively grouped under the "PSE+" moniker:
+
+- IDAES ([GitHub](https://github.com/IDAES), [website](https://idaes.org))
+- CCSI2 ([GitHub](https://github.com/CCSI-Toolset), [website](https://www.acceleratecarboncapture.org/))
+- WaterTAP ([GitHub](https://github.com/watertap-org))
+- DISPATCHES ([GitHub](https://github.com/gmlc-dispatches))
+- PARETO ([GitHub](https://github.com/project-pareto))
+- PrOMMiS ([GitHub](https://github.com/prommis))
+
 ### What does it mean to be an RSE at a National Lab?
 
 🐦 🪶 _Keith Beattie_
