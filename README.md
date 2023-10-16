@@ -1,5 +1,8 @@
 # usrse23
+
 Contributions, resources &amp; other info for the US-RSE'23 conference
+
+![](https://us-rse.org/usrse23/assets/img/USRSE_Conference23_CityscapeBanner_FreeToUsePhoto.png)
 
 ## Contributions
 
