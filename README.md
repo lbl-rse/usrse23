@@ -17,6 +17,10 @@ Download the poster: [Google Drive](https://drive.google.com/file/d/1RWOeA2c5_5k
 
 🐦 🪶 _Keith Beattie_
 
+### Notebooks as a Possible Future for Scientific Publication, Better Practices for Sharing Software, and RSE Authorship
+
+🐦 🪶 _Ludovico Bianchi_
+
 ## Attending
 
 - [Ludovico Bianchi](https://crd.lbl.gov/divisions/scidata/sustainable-software-engineering/staff/ludovico-bianchi/) ([website](https://ludob.com), [GitHub](https://github.com/lbianchi-lbl))
