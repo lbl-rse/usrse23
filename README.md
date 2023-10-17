@@ -40,3 +40,4 @@ This poster was inspired by our experiences as software-engineering experts for 
 - [Ludovico Bianchi](https://crd.lbl.gov/divisions/scidata/sustainable-software-engineering/staff/ludovico-bianchi/) ([website](https://ludob.com), [GitHub](https://github.com/lbianchi-lbl))
 - [Keith Beattie](https://crd.lbl.gov/divisions/scidata/sustainable-software-engineering/staff/keith-beattie/) ([GitHub](https://github.com/ksbeattie))
 - [Rajshree Deshmukh](https://crd.lbl.gov/divisions/scidata/uds/staff/rajshree-deshmukh/) ([GitHub](https://github.com/Rjdesh))
+- Mikaela Cashman ([LinkedIn](https://www.linkedin.com/in/mikaela-cashman-29192588/), [Google Scholar](https://scholar.google.com/citations?hl=en&user=RmtLy-QAAAAJ))
